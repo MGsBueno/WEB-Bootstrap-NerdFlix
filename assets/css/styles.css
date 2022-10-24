@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #353535;
+    color: red;
+    padding: 0rem;
+
+}
+
+#logo{
+    width: 2.5rem;
+}
+
+
+.nav-item{
+    color:red;
+    
+
+    
+}
+.nav-item.disabled{
+    color: grey;
+}
+
+#form, #menu.navbar.btn{
+    width: 20rem;
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+}
+
